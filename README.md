@@ -1,1 +1,1 @@
-# Microsoft-Stock-Time-Series-Forecasting
+# Microsoft Stock Time Series Forecasting
